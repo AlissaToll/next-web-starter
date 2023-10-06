@@ -48,7 +48,7 @@
     "autoprefixer": "10.4.2",
     "husky": "7.0.4",
     "lint-staged": "12.1.7",
-    "postcss": "8.4.5",
+    "postcss": "8.4.31",
     "preact": "10.6.4",
     "prettier": "2.5.1",
     "prisma": "3.7.0",
